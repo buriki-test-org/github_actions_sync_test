@@ -1,2 +1,2 @@
-# github_actions_sync_test
+# github_actions_test
 github actions test
